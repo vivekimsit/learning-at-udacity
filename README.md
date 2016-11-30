@@ -9,7 +9,7 @@
 
 ## Javascript
 
-* Object Oriented Javascript [[Link][link-oo-js]]
+* Object Oriented Javascript [[Github][link-oo-js]]
 * Javascript Design Patterns [[TODO][link-dp-js]]
 
 [link-oo-js]: https://github.com/vivekimsit/object-oriented-javascript
